@@ -1,1 +1,7 @@
-
+Q - Status Code
+    101 - 199 informational Response
+    201 - 299 SuccessFulll messages
+    301 - 399 Redirection responses
+    401 - 499 Client Error responses
+    501 - 599 Server error response
+    
